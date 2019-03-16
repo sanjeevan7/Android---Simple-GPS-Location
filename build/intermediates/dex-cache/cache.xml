@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_605d6f80e2d161238f13141fa052dd7c149e1117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_8d8efed1295b88025ea7b6b4887b3ccde956a2de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_c7eac999107f1ce9986de68b555d9764fda7455a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_27fd6b6923a1071be28fc4be5996a2ca3c633a12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_0bb32b1d5912d9aec4db7a619742af82d0c320c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_4e4dbd6b1d990bbc659885c80d50950cd518f943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_123905b26a4904c4c3c0516cc4f14cb4572b6c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_bf6c856ec6a2a0c1d84f05c2e2d02c88c3bb9d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_718a080f973aa909842605eeb79f32ff08a55add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_235c2c01c6a0bcf59ec81c911c9854e8c7dd39e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_d148a94e1a7d222664b3242afe88642e2916e598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_0e8faff03fa91c35bcba06f6dd090cc617fb511c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_05c5a208b1c118ea37e0856260381fac85762c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_5fa8d581c1a3e409bbe365ce4c986ca5da315bcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_bc20fbaec4cd9fc4325f910efac280a5001099a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_124b1c393c9af4d252320e0a908f65b824684421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_9e5a9cd2b12d77c6df88a2c0f704e228a2e8f57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_7d819fe02161831e090c88efb7f75bb38bc69a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_f5dabd6ff47c48b3856c1de9aa6d6879f45ae90d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_87109bd572fbf229edb57b3a3d779312b727496a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_0e6d105a90a63ad15ebf858f5f196fa8bc9ba097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_13d8cb00c1ec8d11707474dff98e98a6d10d19d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_f5d3432dd43cbb8d805df88439ba0d9d8497c07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_0b795336552226abb7b48e1ce8bdb22a1710d22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_4858538a25d1416da9505f84b7a2558aa74ef855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_21f54f6908f2b2b92d271ef3eef1003530b11044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_2e8aa14f39ce0d71131cfdea6b55f7ce3fd72da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_3bbbcd867d2b17f59b34d4172ecf246c40bfbef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_1e0f23f5d9266278b22ff64309838429989bbade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_d813ae96e092112e6207b70befb4243a18000b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_f87e8b9a63a44e7944574ebdd4bb53aeef7229ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_49ad32a332470c2169d178e11527fe4d4a5fe6be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_40d23730854dd5d5d4b6204da2ce7994b497459f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_e35a6645c1287794092006bcff5032f9bf4a759f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_98f42b07ec63904ca0198e906f5f0856017435de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_fc7c982eb964334a3c08cd6f8cf608ebb21d68c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_30c7f054e168d3d6e79e570da3cc575203589e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_1dfeb5edec90265f4dd128837743bc648f3c6961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_2dbf83b1b2707cfedb03ae4b1779371d43de6e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_b32fa1af6e94c65b32ac044e4ccc4641dc0ff149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_fa8da1b2c468fb95299f82f393fba7d4fdf05334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_0fd22ffe499e7d61b6b6ffdf840253d8c6201062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_0136edb7a659209802185aa000cfd9508d72bce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_e706b90c5a554bd50ee45034fb130834a510198a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_cac6e7fa35067a0a85302cfeb449afd44f42ab8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_7d78174e26be1458c64bde3fd044ffc372dfb254.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_f9949b52675736e76b8d6db826b7bee74adbc6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_8d0ac56e36201566b94380b7b21b4fa311713d45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_09e1eab48100a2320ef1d7e218cc57a264163649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_2af5014797c9f97367bb6916eda75668167815d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_9b6a2c37bdeffd81e35a04a76259860c782b7367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_71203caf29415fd85555402146ce463bb2801ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_98969033a86df090f7d0b5ac84e6644f847f00d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_a3ee6c3de570bb13f33ac204440d83476828b39c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_fda650a2546e9b2f18901a88f31698dd77524c2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_0c2b016c3aa5f353ea7a8052a286704a2ed32d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_74bf9527e008405e71a89c4be6b398b1e01cbb01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_a1ea8ff62e95f73fe1ba4cd1d758998990235444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_3c4550f6fc69f204a66bd17c682b2e9851ad8387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_d512d5915d94dccf7c98303edc034f91ef7aa52b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_3895909e63819eb36bd58c7945d5e374c9913c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_ac2269c512707c4a5a04da1ed5f5c9a86449f356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_43530dcae18d8e39e82b4ec47e3d8b7c86254398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\Personal\GitHub\Mobile\android-current-location-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_c366a1117986d1260b92e5dc0588ddff264af468.jar" />
+    </item>
+
+</items>
