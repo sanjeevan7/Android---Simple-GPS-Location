@@ -1,3 +1,5 @@
+Android - Simple GPS Location
+
 Layout Design
 We will now create the design for the application, first locate the layout file called activity_main.xml, this is the default name when create a new activity. Then write these codes inside your layout file.
 
